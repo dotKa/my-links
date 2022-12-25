@@ -1,0 +1,21 @@
+{
+  "name": "Yasin Karadeniz",
+  "description": "will be update",
+  "image_url": "https://avatars.githubusercontent.com/u/15361459?v=4",
+  "links": [{
+      "title": "Linkedin",
+      "url": "https://www.linkedin.com/in/yasinka/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/dotKa",
+      "icon": "github"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/sihirlibarnak/",
+      "icon": "instagram"
+    }
+  ]
+}
